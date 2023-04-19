@@ -1,4 +1,4 @@
-package acme;
+package modelo;
 
 
 public class Gimnasio {
